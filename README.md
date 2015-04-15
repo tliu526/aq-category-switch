@@ -1,1 +1,0 @@
-# aq-category-switch
