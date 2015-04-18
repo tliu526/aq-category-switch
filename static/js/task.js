@@ -30,6 +30,12 @@ var instructionPages = [ // add as a list as many pages as you like
 	"instructions/instruct-ready.html"
 ];
 
+/**
+CATEGORY CONSTANTS
+**/
+var BOUNDARY_SIZE = 100; //pixels
+var BOUNDARY_ANGLE = Math.pi / 2; //radians
+
 
 /********************
 * HTML manipulation
@@ -42,70 +48,73 @@ var instructionPages = [ // add as a list as many pages as you like
 ********************/
 
 /********************
-* STROOP TEST       *
+* CATEGORY TEST       *
 ********************/
-var StroopExperiment = function() {
-
-	var wordon, // time word is presented
-	    listening = false;
-
-	// Stimuli for a basic Stroop experiment
-	var stims = [
-			["SHIP", "red", "unrelated"],
-			["MONKEY", "green", "unrelated"],
-			["ZAMBONI", "blue", "unrelated"],
-			["RED", "red", "congruent"],
-			["GREEN", "green", "congruent"],
+var CategoryExperiment = function() {
+    
+    var wordon, // time word is presented
+    listening = false;
+    
+    var training = true;
+    var correct = true;
+    
+    // Stimuli for a basic Stroop experiment
+    var stims = [
+	["SHIP", "red", "unrelated"],
+	["MONKEY", "green", "unrelated"],
+	["ZAMBONI", "blue", "unrelated"],
+	["RED", "red", "congruent"],
+	["GREEN", "green", "congruent"],
 			["BLUE", "blue", "congruent"],
-			["GREEN", "red", "incongruent"],
-			["BLUE", "green", "incongruent"],
-			["RED", "blue", "incongruent"]
-		];
-
-	stims = _.shuffle(stims);
-
-	var next = function() {
-		if (stims.length===0) {
-			finish();
-		}
-		else {
-			stim = stims.shift();
-			show_word( stim[0], stim[1] );
-			wordon = new Date().getTime();
-			listening = true;
-			d3.select("#query").html('<p id="prompt">Type "R" for Red, "B" for blue, "G" for green.</p>');
-		}
-	};
+	["GREEN", "red", "incongruent"],
+	["BLUE", "green", "incongruent"],
+	["RED", "blue", "incongruent"]
+    ];
+    
+    stims = _.shuffle(stims);
+    
+    var next = function() {
+	if (stims.length===0) {
+	    finish();
+	}
+	else {
+	    stim = stims.shift();
+	    show_stimulus( stim[0], stim[1] );
+	    wordon = new Date().getTime();
+	    listening = true;
+	    d3.select("#query").html('<p id="prompt">Type "R" for Red, "B" for blue, "G" for green.</p>');
+	}
+    };
+    
+    var response_handler = function(e) {
+	if (!listening) return;
 	
-	var response_handler = function(e) {
-		if (!listening) return;
-
-		var keyCode = e.keyCode,
-			response;
-
-		switch (keyCode) {
-			case 82:
-				// "R"
-				response="red";
-				break;
-			case 71:
-				// "G"
-				response="green";
-				break;
-			case 66:
-				// "B"
-				response="blue";
-				break;
-			default:
-				response = "";
-				break;
-		}
-		if (response.length>0) {
-			listening = false;
-			var hit = response == stim[1];
-			var rt = new Date().getTime() - wordon;
-
-			psiTurk.recordTrialData({'phase':"TEST",
+	var keyCode = e.keyCode,
+	response;
+	
+	switch (keyCode) {
+	case 82:
+	    // "R"
+	    response="red";
+	    break;
+	case 71:
+	    // "G"
+	    response="green";
+	    break;
+	case 66:
+	    // "B"
+	    response="blue";
+	    break;
+	default:
+	    response = "";
+	    break;
+	}
+	if (response.length>0) {
+	    listening = false;
+	    var hit = response == stim[1];
+	    var rt = new Date().getTime() - wordon;
+	    
+	    psiTurk.recordTrialData({'phase':"TEST",
                                      'word':stim[0],
                                      'color':stim[1],
                                      'relation':stim[2],
@@ -113,44 +122,75 @@ var StroopExperiment = function() {
                                      'hit':hit,
                                      'rt':rt}
                                    );
-			remove_word();
-			next();
-		}
-	};
+	    remove_word();
+	    display_feedback();
+	    next();
+	}
+    };
+    
+    var finish = function() {
+	$("body").unbind("keydown", response_handler); // Unbind keys
+	currentview = new Questionnaire();
+    };
+    
+    var show_stimulus = function(text, color) {
 
-	var finish = function() {
-	    $("body").unbind("keydown", response_handler); // Unbind keys
-	    currentview = new Questionnaire();
-	};
+	var rad = 50;
+
+	var svgContainer = 
+	    d3.select("#stim")
+	    .append("svg")
+	    .attr("width", 500)
+	    .attr("height", 500)
+	    .attr("id", "circle-line");
+
+	svgContainer.append("circle")
+	    .attr("cx", 250)
+	    .attr("stroke", "black")
+	    .attr("stroke-width", "2")
+	    .attr("cy", 250)
+	    .attr("r", rad)
+	    .style("fill", "none");
 	
-	var show_word = function(text, color) {
-		d3.select("#stim")
-			.append("div")
-			.attr("id","word")
-			.style("color",color)
-			.style("text-align","center")
-			.style("font-size","150px")
-			.style("font-weight","400")
-			.style("margin","20px")
-			.text(text);
-	};
+	var rand_angle = Math.random()*90;
+	var x2 = 250 + Math.sin(rand_angle) * rad;
+	var y2 = 250 + Math.cos(rand_angle) * rad;
 
-	var remove_word = function() {
-		d3.select("#word").remove();
-	};
+	svgContainer.append("line")
+	    .attr("x1", 250)
+	    .attr("y1", 250)
+	    .attr("x2", x2)
+	    .attr("y2", y2)
+	    .attr("stroke", "black")
+	    .attr("stroke-width", 2);
+    };
+    
+    var remove_word = function() {
+	d3.select("#circle-line").remove();
+    };
+    
+    var display_feedback = function() {
+	if(training) {
+	    if(correct) {
+		d3.select("#feedback").html('<p id="fb">Correct!</p>');
+	    }
+	    else {
+		d3.select("#feedback").html('<p id="fb">Incorrect!</p>');
+	    }
+	}
+    }
 
-	
-	// Load the stage.html snippet into the body of the page
-	psiTurk.showPage('stage.html');
-
-	// Register the response handler that is defined above to handle any
-	// key down events.
-	$("body").focus().keydown(response_handler); 
-
-	// Start the test
-	next();
+    //The "main" method of our experiment (JS...ugh)
+    // Load the stage.html snippet into the body of the page
+    psiTurk.showPage('stage.html');
+    
+    // Register the response handler that is defined above to handle any
+    // key down events.
+    $("body").focus().keydown(response_handler); 
+    
+    // Start the test
+    next();
 };
-
 
 /****************
 * Questionnaire *
@@ -209,6 +249,18 @@ var Questionnaire = function() {
 	
 };
 
+/***********
+* Functions
+***********/
+function getRandom(min, max) {
+    return Math.random() * (max - min) + min;
+}
+
+//returns bool of whether given dimensions are in category A or not
+function isCategoryA(size, angle) {
+
+}
+
 // Task object to keep track of the current phase
 var currentview;
 
@@ -218,6 +270,6 @@ var currentview;
 $(window).load( function(){
     psiTurk.doInstructions(
     	instructionPages, // a list of pages you want to display in sequence
-    	function() { currentview = new StroopExperiment(); } // what you want to do when you are done with instructions
+    	function() { currentview = new CategoryExperiment(); } // what you want to do when you are done with instructions
     );
 });
