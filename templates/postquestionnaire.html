@@ -3,14 +3,19 @@
 
     <hr>
 
-    <p>You are finished!  Thank you for your contributions to science. You will be eligible for full payment once you answer the following questions.</p>
+    <p>The categorization task is now complete. Now you will complete a questionaire that measures Autism Quotient (AQ).</p>
 
+
+    <div id="aq_question"></div>
     <div class="instructions well">
 
         <form id="postquiz" action="debrief" method="post">
 
-
-            <!-- beginning of a question -->
+	  <input type="radio" name="agreement" value="definite_agree">Definitely Agree
+	  <input type="radio" name="agreement" value="slight_agree">Slightly Agree
+	  <input type="radio" name="agreement" value="slight_disagree">Slightly Disagree
+	  <input type="radio" name="agreement" value="definite_disagree">Definitely Disagree
+            <!-- beginning of a question 
             <div class="row question">
                 <div class="col-md-8">
                     On a scale of 1-10 (where 10 is the most engaged), please rate how <b>ENGAGING</b> you found the learning task:
@@ -31,10 +36,10 @@
                     </select>
                 </div>
             </div>
-            <!-- end of a question -->
+             end of a question -->
 
 
-            <!-- beginning of a question -->
+            <!-- beginning of a question 
             <div class="row question">
                 <div class="col-md-8">
                     On a scale of 1-10 (where 10 is the most difficult), please rate how <b>DIFFICULT</b> you found the learning task:
@@ -55,7 +60,7 @@
                     </select>
                 </div>
             </div>
-            <!-- end of a question -->
+             end of a question -->
         </form>
     </div>
 

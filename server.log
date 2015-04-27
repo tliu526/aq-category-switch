@@ -73,3 +73,194 @@
 2015-04-18 21:34:15,670 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
 2015-04-18 21:34:15,688 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
 2015-04-18 21:34:15,720 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:26:14,306 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:26:14,872 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:26:14,936 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:26:15,047 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:26:15,071 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2015-04-20 11:43:54 +0000] [3695] [CRITICAL] WORKER TIMEOUT (pid:3705)
+[2015-04-20 11:43:54 +0000] [3695] [CRITICAL] WORKER TIMEOUT (pid:3700)
+[2015-04-20 11:43:54 +0000] [3695] [CRITICAL] WORKER TIMEOUT (pid:3701)
+[2015-04-20 11:43:54 +0000] [3695] [CRITICAL] WORKER TIMEOUT (pid:3702)
+[2015-04-20 11:43:54 +0000] [3695] [CRITICAL] WORKER TIMEOUT (pid:3703)
+2015-04-20 11:43:55,992 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:43:56,169 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:43:56,172 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:43:56,209 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-20 11:43:56,247 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-21 17:34:52,461 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-21 17:34:52,461 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-21 17:34:52,462 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-21 17:34:52,462 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-21 17:34:52,471 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 10:09:05,103 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 10:09:05,104 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 10:09:05,092 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 10:09:05,146 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 10:09:05,255 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2015-04-22 16:34:38 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:4210)
+[2015-04-22 16:34:38 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:4211)
+[2015-04-22 16:34:38 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:4212)
+[2015-04-22 16:34:38 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:4213)
+[2015-04-22 16:34:38 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:4214)
+2015-04-22 16:34:40,634 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 16:34:40,646 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 16:34:40,751 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 16:34:40,838 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 16:34:40,866 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+[2015-04-22 20:56:46 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:6284)
+[2015-04-22 20:56:46 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:6285)
+[2015-04-22 20:56:46 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:6287)
+[2015-04-22 20:56:46 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:6288)
+[2015-04-22 20:56:47 +0000] [4205] [CRITICAL] WORKER TIMEOUT (pid:6289)
+2015-04-22 20:56:47,816 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 20:56:47,833 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 20:56:47,906 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 20:56:48,002 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 20:56:48,017 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,561 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,620 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,736 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,816 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,837 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,841 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,845 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-22 21:32:08,849 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-24 21:15:04,596 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-24 21:15:04,793 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-24 21:15:04,891 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-24 21:15:04,916 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-24 21:15:04,928 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-24 21:16:37,079 Exception on /instructions/category-switch.html [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 667, in regularpage
+    return render_template(foldername+"/"+pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 127, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 64, in get_source
+    raise TemplateNotFound(template)
+TemplateNotFound: instructions/category-switch.html
+2015-04-24 21:21:40,999 Exception on /instructions/category-switch.html [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 667, in regularpage
+    return render_template(foldername+"/"+pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 127, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 64, in get_source
+    raise TemplateNotFound(template)
+TemplateNotFound: instructions/category-switch.html
+2015-04-24 21:23:30,289 Exception on /instructions/category-switch.html [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 667, in regularpage
+    return render_template(foldername+"/"+pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 127, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 64, in get_source
+    raise TemplateNotFound(template)
+TemplateNotFound: instructions/category-switch.html
+2015-04-25 15:51:19,721 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 15:51:19,723 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 15:51:19,723 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 15:51:19,725 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 15:51:19,726 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 15:53:13,272 Exception on /instructions/category-switch.html [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python2.7/dist-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/usr/local/lib/python2.7/dist-packages/psiturk/experiment.py", line 667, in regularpage
+    return render_template(foldername+"/"+pagename)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 127, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 830, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 791, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/environment.py", line 765, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/usr/local/lib/python2.7/dist-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/usr/local/lib/python2.7/dist-packages/flask/templating.py", line 64, in get_source
+    raise TemplateNotFound(template)
+TemplateNotFound: instructions/category-switch.html
+[2015-04-25 19:16:36 +0000] [4043] [CRITICAL] WORKER TIMEOUT (pid:4048)
+[2015-04-25 19:16:36 +0000] [4043] [CRITICAL] WORKER TIMEOUT (pid:4049)
+[2015-04-25 19:16:36 +0000] [4043] [CRITICAL] WORKER TIMEOUT (pid:4050)
+[2015-04-25 19:16:36 +0000] [4043] [CRITICAL] WORKER TIMEOUT (pid:4051)
+[2015-04-25 19:16:36 +0000] [4043] [CRITICAL] WORKER TIMEOUT (pid:4052)
+2015-04-25 19:16:38,286 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 19:16:38,329 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 19:16:38,420 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 19:16:38,431 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-25 19:16:38,441 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 20:32:55,987 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 20:32:55,882 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 20:32:56,103 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 20:32:56,190 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 20:32:56,341 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 21:13:40,129 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 21:13:40,159 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 21:13:40,246 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 21:13:40,268 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-26 21:13:40,315 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
