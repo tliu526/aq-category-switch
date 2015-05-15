@@ -24,18 +24,11 @@
                 <hr>
                 <div class="legal well">
                     <p>
-You are invited to take part in a research study of how people categorize novel stimuli. Please read this form carefully before agreeing to take part in this study.
-
-What this study is about: The purpose is this study is to learn how people categorize novel stimuli.
-
-What we will ask you to do: If you agree to be in this study you will complete a computerized categorization task. You will also fill out a questionnaire and be asked a number of questions about yourself.
-
-Risks and benefits: There are not any anticipated risks to participating in this study other than those encountered in day-to-day life. The benefit to you is a compensation of X upon completion of the tasks.
-
-Taking part is voluntary: Taking part in this study is completely voluntary. If you decide to take part, you are free to withdraw at any time.
-
-Your answers will be confidential: The records of this study will be kept private. In any sort of report we make public we will not include any information that will make it possible to identify you. Only the researchers will have access to the records.
-
+                    You have been invited to take part in a research study named BLAH BLAH
+                    </p>
+                    <p>
+                    Put your consent form here.  If you are a worker and are viewing this
+                    please decline the HIT.  This requester doesn't know what they are doing.
                     </p>
 
                     <button type="button" class="btn btn-default btn-sm" onClick="window.print();">

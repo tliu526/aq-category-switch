@@ -264,3 +264,454 @@ TemplateNotFound: instructions/category-switch.html
 2015-04-26 21:13:40,246 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
 2015-04-26 21:13:40,268 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
 2015-04-26 21:13:40,315 /usr/local/lib/python2.7/dist-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:03,113 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:03,300 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,118 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,206 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,422 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,428 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,611 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,725 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:18:04,737 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:40,300 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:41,003 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:41,515 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:41,624 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:42,031 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:42,116 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:42,233 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:42,319 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:19:42,427 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:23,431 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:24,425 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:24,430 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:25,299 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:25,316 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:25,402 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:25,413 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:25,504 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:21:25,536 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:09,335 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:09,914 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,003 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,132 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,209 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,599 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,727 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,830 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-27 01:28:10,847 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+Exception KeyError: KeyError(139657827149568,) in Exception <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'>KeyError ignored
+: KeyError(139657827149568,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+    func(*targs, **kargs)
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 1659, in shutdown
+    h.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 705, in release
+    self.lock.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/threading.py", line 203, in release
+    raise RuntimeError("cannot release un-acquired lock")
+RuntimeError: cannot release un-acquired lock
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 1659, in shutdown
+    h.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 705, in release
+    self.lock.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/threading.py", line 203, in release
+    raise RuntimeError("cannot release un-acquired lock")
+RuntimeError: cannot release un-acquired lock
+Exception KeyError: KeyError(140326656083712,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+Exception SystemExit: 0 in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+2015-04-28 01:13:03,498 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:04,704 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:04,907 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:05,329 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:05,403 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:05,511 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:05,611 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:05,703 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:05,738 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:13:31,577 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'debugHWJ5U1'], 'workerId': [u'None'], 'hitId': [u'debugQ7FO2S'], 'mode': [u'sandbox']}
+2015-04-28 01:16:29,824 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:30,412 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:30,502 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:30,903 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:31,005 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:31,010 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:31,032 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:31,225 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:16:31,303 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:18:34,755 hit_not_registered_with_ad_server (1018) {'assignmentId': [u'debugHWJ5U1'], 'workerId': [u'None'], 'hitId': [u'debugQ7FO2S'], 'mode': [u'sandbox']}
+2015-04-28 01:22:04,118 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:05,724 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:05,808 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:06,727 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:06,931 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:07,003 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:07,215 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:07,236 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:22:07,311 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:38,219 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:39,898 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:40,122 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:41,016 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:41,018 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:41,201 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:41,214 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:41,312 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:27:41,443 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+Exception KeyError: KeyError(139961718896384,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+2015-04-28 01:37:47,624 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:47,710 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:47,924 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:48,022 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:48,202 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:48,425 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:48,519 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:48,631 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:37:48,644 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+Exception Exception KeyErrorKeyError: : KeyError(140290443134720,)KeyError(140290443134720,) in  in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'><module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+ ignored
+2015-04-28 01:44:44,715 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:45,227 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:45,427 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:45,723 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:46,228 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:46,306 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:46,599 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:46,616 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 01:44:46,622 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+Exception Exception Exception KeyErrorKeyError: : KeyError: KeyError(140144860731136,)KeyError(140144860731136,)KeyError(140144860731136,) in  in  in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'><module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+<module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+ ignored
+2015-04-28 02:09:39,807 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:40,100 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:40,699 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:40,802 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:41,617 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:41,931 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:42,116 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:42,120 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:09:42,148 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+Exception KeyError  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+: KeyError(140476002457344,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+    func(*targs, **kargs)
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 1659, in shutdown
+    h.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 705, in release
+    self.lock.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/threading.py", line 203, in release
+    raise RuntimeError("cannot release un-acquired lock")
+RuntimeError: cannot release un-acquired lock
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 1659, in shutdown
+    h.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 705, in release
+    self.lock.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/threading.py", line 203, in release
+    raise RuntimeError("cannot release un-acquired lock")
+RuntimeError: cannot release un-acquired lock
+Exception KeyError: KeyError(140476002457344,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+2015-04-28 02:17:44 [25925] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:45 [25925] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:46 [25925] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:47 [25925] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:48 [25925] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:49 [26665] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:49 [25925] [ERROR] Can't connect to ('localhost', 8080)
+2015-04-28 02:17:50 [26665] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:51 [26665] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:52 [26665] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:53 [26665] [ERROR] Retrying in 1 second.
+2015-04-28 02:17:54 [26665] [ERROR] Can't connect to ('localhost', 8080)
+2015-04-28 02:18:46 [36178] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:47 [36178] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:48 [36178] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:49 [36178] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:50 [36178] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:51 [36955] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:51 [36178] [ERROR] Can't connect to ('127.0.0.1', 8080)
+2015-04-28 02:18:52 [36955] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:53 [36955] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:54 [36955] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:54 [37570] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:55 [36955] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:55 [37570] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:56 [36955] [ERROR] Can't connect to ('127.0.0.1', 8080)
+2015-04-28 02:18:56 [37570] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:57 [37570] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:58 [37570] [ERROR] Retrying in 1 second.
+2015-04-28 02:18:59 [37570] [ERROR] Can't connect to ('127.0.0.1', 8080)
+2015-04-28 02:19:43,511 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:44,612 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:44,912 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:45,032 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:45,506 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:45,827 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:46,107 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:46,217 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:19:46,297 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:25,620 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:26,424 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:27,807 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:28,499 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:28,525 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:28,907 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:28,915 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:29,050 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:29,129 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:36,509 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:37,009 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:37,228 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:38,011 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:38,212 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:38,817 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:39,006 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:39,013 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:28:39,038 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:40,807 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:41,208 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:41,522 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:42,110 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:42,115 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:42,217 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:42,416 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:42,424 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:29:42,508 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:31:14,111 already_did_exp_hit (1010) {'assignmentId': [u'3TPWUS5F8914ISMZHHJOM0OKV7OCW6'], 'workerId': [u'A3VOMDVGQ7GAA2'], 'hitId': [u'3O2Y2UIUCQUI3KEZT3LLIBK9STGFKF'], 'mode': [u'sandbox']}
+2015-04-28 02:32:21,158 already_did_exp_hit (1010) {'assignmentId': [u'3QILPRALQ5VCJVN884CWOVFAC4Z8N5'], 'workerId': [u'A3VOMDVGQ7GAA2'], 'hitId': [u'33P2GD6NRNS2HG55OT9LLWWM88THKF'], 'mode': [u'sandbox']}
+2015-04-28 02:34:13,242 already_did_exp_hit (1010) {'assignmentId': [u'debug4BVN9M'], 'workerId': [u'None'], 'hitId': [u'debugJ0HGT0'], 'mode': [u'sandbox']}
+Exception KeyError: KeyError(139807788717824,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+2015-04-28 02:37:43,226 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:43,627 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,021 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,218 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,505 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,506 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,623 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,901 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:37:44,940 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-28 02:41:45,688 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4KPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP5HK'], 'mode': [u'sandbox']}
+2015-04-28 02:52:25,410 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4KPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP5HK'], 'mode': [u'sandbox']}
+2015-04-28 02:52:44,247 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4KPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP5HK'], 'mode': [u'sandbox']}
+2015-04-28 02:52:53,411 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4KPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP4HK'], 'mode': [u'sandbox']}
+2015-04-28 02:53:03,682 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4EPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP4HK'], 'mode': [u'sandbox']}
+2015-04-28 02:53:20,354 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4EPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP4HK'], 'mode': [u'sandbox']}
+2015-04-28 02:53:38,491 already_did_exp_hit (1010) {'assignmentId': [u'debugZ4EPFO'], 'workerId': [u'None'], 'hitId': [u'debugUDP4HK'], 'mode': [u'sandbox']}
+2015-04-29 23:09:46,534 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:46,902 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:47,134 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:47,420 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:47,639 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:47,926 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:48,046 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:48,061 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-29 23:09:48,153 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:50,214 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:50,598 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:51,017 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:51,636 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:51,813 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:52,022 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:52,115 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:52,148 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-04-30 00:53:52,258 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,353 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,348 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,347 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,401 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,402 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,405 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,425 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,446 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 00:01:31,450 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:13,606 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:13,607 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:13,626 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:14,700 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:14,832 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:15,106 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:15,140 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:15,232 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 20:58:15,309 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:36,432 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:37,617 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:37,723 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:38,316 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:38,319 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:38,329 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:38,405 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:38,598 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 21:52:38,613 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:31,031 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:32,913 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,037 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,123 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,516 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,518 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,819 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,935 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:07:33,967 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+Error in atexit._run_exitfuncs:
+Traceback (most recent call last):
+  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 1659, in shutdown
+    h.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 705, in release
+    self.lock.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/threading.py", line 203, in release
+    raise RuntimeError("cannot release un-acquired lock")
+RuntimeError: cannot release un-acquired lock
+Error in sys.exitfunc:
+Traceback (most recent call last):
+  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+    func(*targs, **kargs)
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 1659, in shutdown
+    h.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/logging/__init__.py", line 705, in release
+    self.lock.release()
+  File "/opt/rh/python27/root/usr/lib64/python2.7/threading.py", line 203, in release
+    raise RuntimeError("cannot release un-acquired lock")
+RuntimeError: cannot release un-acquired lock
+2015-05-01 22:13:25,639 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:27,844 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:27,999 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:28,341 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:28,604 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:28,702 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:28,733 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:28,906 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:13:29,098 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:00,901 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:01,937 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:03,220 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:03,597 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:03,994 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:04,139 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:04,304 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:04,366 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:20:04,398 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:35,048 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:36,234 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:36,533 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:37,340 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:37,619 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:37,705 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:37,724 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:37,817 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:30:37,841 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:11,438 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:13,134 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:13,830 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:14,213 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:14,218 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:14,625 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:14,721 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:14,839 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:15,026 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:20,423 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:20,931 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:21,822 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:22,332 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:22,628 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:23,028 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:23,101 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:23,142 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:31:23,199 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-01 22:41:35,376 already_started_exp (1008) {'assignmentId': [u'39KFRKBFINV9GME2MND5J1IGZIIYOQ'], 'workerId': [u'A1OQ52KDFMOJGR'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-01 22:43:44,313 already_started_exp (1008) {'assignmentId': [u'39KFRKBFINV9GME2MND5J1IGZIIYOQ'], 'workerId': [u'A28RX7L0QZ993M'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-01 22:47:02,549 already_started_exp (1008) {'assignmentId': [u'358010RM5ETF61XPI3DHVF5FT5PVXN'], 'workerId': [u'A1FYFBIFYWTMJS'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-01 23:35:35,156 already_started_exp (1008) {'assignmentId': [u'339ANSOTR5240VEIKDZ9QW7JPUSIK2'], 'workerId': [u'A1NUKP1UCT2R2R'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-01 23:55:34,847 already_started_exp (1008) {'assignmentId': [u'3XCC1ODXDLB34XFWN5DF0AKJBX7RQD'], 'workerId': [u'A2QRP3TTV7JVSR'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-01 23:55:43,584 already_started_exp (1008) {'assignmentId': [u'3XCC1ODXDLB34XFWN5DF0AKJBX7RQD'], 'workerId': [u'A2QRP3TTV7JVSR'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-02 00:11:06,695 hit_assign_worker_id_not_set_in_exp (1003) {}
+2015-05-02 01:05:08,088 already_started_exp (1008) {'assignmentId': [u'3IKZ72A5B4GLYAXVGIL4FRBV3YPNF7'], 'workerId': [u'A1RATFICCKLCQ'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-02 01:05:36,975 already_started_exp (1008) {'assignmentId': [u'3IKZ72A5B4GLYAXVGIL4FRBV3YPNF7'], 'workerId': [u'A1RATFICCKLCQ'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-02 01:06:10,945 already_started_exp (1008) {'assignmentId': [u'3IKZ72A5B4GLYAXVGIL4FRBV3YPNF7'], 'workerId': [u'A1RATFICCKLCQ'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-02 01:23:19,565 hit_assign_worker_id_not_set_in_consent (1002) {}
+2015-05-02 08:40:04,662 already_started_exp (1008) {'assignmentId': [u'3CTOC39K37QC0RR4J1V0YSHXWR5J71'], 'workerId': [u'A150GMV1YQWWB3'], 'hitId': [u'3Q9SPIIRWJME2TR871LX9PIC1BOAWD'], 'mode': [u'live']}
+2015-05-03 12:01:12,425 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,425 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,426 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,426 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,427 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,519 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,543 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,604 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-03 12:01:12,618 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:33,198 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:34,047 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:34,137 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:34,629 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:34,817 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:34,831 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:34,938 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:35,131 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 13:49:35,162 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:05,721 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:06,531 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:07,502 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:07,729 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:08,502 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:08,836 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:08,926 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:09,142 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:03:09,220 /var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/psiturk_js/psiturk.js
+2015-05-06 14:15:07,807 already_started_exp (1008) {'assignmentId': [u'33PPO7FECVFWMP88SWDMMJCT77VIDZ'], 'workerId': [u'A195MOXRMNHRVT'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-06 14:16:08,587 already_started_exp (1008) {'assignmentId': [u'3LQ8PUHQFLSDY5DAESWCD4RRZ0UIHG'], 'workerId': [u'A2WS3M8RTC4FA'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-06 14:19:55,088 already_started_exp (1008) {'assignmentId': [u'3U5NZHP4LR25FR0ERNMWM1S3LDIHPI'], 'workerId': [u'A2QT68NJYAJV9P'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-06 14:36:18,717 already_started_exp (1008) {'assignmentId': [u'3JJVG1YBEBXRV4F97G3M2KKOZ0D5B5'], 'workerId': [u'A3GYJ7ZDKUZP7L'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-06 19:19:31,973 hit_assign_worker_id_not_set_in_consent (1002) {}
+2015-05-06 21:06:25,441 already_started_exp (1008) {'assignmentId': [u'3LQ8PUHQFLSDY5DAESWCD4RRZ4OIHI'], 'workerId': [u'A2S96ZZ70YFPSK'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-06 21:07:29,144 already_started_exp (1008) {'assignmentId': [u'39GHHAVOMFRFH49LH3XTVGXN7EMJ44'], 'workerId': [u'A12U7YNO0GKNKZ'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-06 22:17:28,156 Exception on /A2EB891D63C8/avg_ls_dom.js [GET]
+Traceback (most recent call last):
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/app.py", line 1817, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/app.py", line 1477, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/app.py", line 1381, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/app.py", line 1475, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/app.py", line 1461, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/psiturk/experiment.py", line 667, in regularpage
+    return render_template(foldername+"/"+pagename)
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/templating.py", line 127, in render_template
+    return _render(ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/opt/rh/python27/root/usr/lib/python2.7/site-packages/jinja2/environment.py", line 758, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/opt/rh/python27/root/usr/lib/python2.7/site-packages/jinja2/environment.py", line 719, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/opt/rh/python27/root/usr/lib/python2.7/site-packages/jinja2/environment.py", line 693, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/opt/rh/python27/root/usr/lib/python2.7/site-packages/jinja2/loaders.py", line 115, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/var/lib/openshift/553dbf1d5973ca5f2f00008d/python/virtenv/lib/python2.7/site-packages/flask/templating.py", line 64, in get_source
+    raise TemplateNotFound(template)
+TemplateNotFound: A2EB891D63C8/avg_ls_dom.js
+2015-05-06 23:03:11,642 already_started_exp (1008) {'assignmentId': [u'3KRVW3HTZNLOKXHHA1639B5APQDMSF'], 'workerId': [u'A2VQLXZU0TE6HI'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-07 00:51:57,360 hit_assign_worker_id_not_set_in_exp (1003) {}
+2015-05-07 03:38:42,765 already_started_exp (1008) {'assignmentId': [u'386PBUZZXFXBFCG6NVWAHXZYT44LJU'], 'workerId': [u'AVW6QAAN3LG5Y'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-07 08:31:17,637 already_started_exp (1008) {'assignmentId': [u'31JLPPHS2UU80JHEX2KFT7M3SDBO3S'], 'workerId': [u'A2UX6UWXRJ02VW'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+2015-05-07 10:42:50,935 already_started_exp (1008) {'assignmentId': [u'3SBEHTYCWN3ZK03ZOS00Z4MUP5XIYN'], 'workerId': [u'A3C2S6SNYFFW9C'], 'hitId': [u'3CMIQF80GNQ8VUJJ5F5F1VY4IOVQ68'], 'mode': [u'live']}
+Exception Exception Exception Error in atexit._run_exitfuncs:
+SystemExit: KeyError: KeyError(140046470940416,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+0 in SystemExit: <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+Traceback (most recent call last):
+0 in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+  File "/opt/rh/python27/root/usr/lib64/python2.7/atexit.py", line 24, in _run_exitfuncs
+Exception KeyError: KeyError(140046470940416,) in  ignored
+Exception KeyError: KeyError(140046470940416,) in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored
+Exception SystemExit:  in <module 'threading' from '/opt/rh/python27/root/usr/lib64/python2.7/threading.pyc'> ignored

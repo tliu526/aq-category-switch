@@ -126,13 +126,22 @@ var CategoryExperiment = function() {
     var trainCD = populateStimulus(false,TRAIN_LEN);
     var trialCD = populateStimulus(false,TRIAL_LEN);
     
-    var stimSets = [[trainCD, trialCD],[trainAB, trialAB]];
-    //RUNNING CD FIRST
-    isCatAB = false;
-
+    var stimSets = [[trainAB, trialAB], [trainCD, trialCD]];
+    //Math.seedrandom();
+    //stimSets = _.shuffle(stimSets);
     var curStim = stimSets.shift();
     var curSet = curStim[0];
+    isCatAB = true;
 
+    //TODO:counterbalance
+    /*
+      if(curSet == trainAB) {
+      isCatAB = true;
+      }
+      else {
+      isCatAB = false;
+      }
+    */
     var next = function() {
 	if (curSet.length==0) {
 	    
@@ -336,7 +345,7 @@ var Questionnaire = function() {
 
     record_responses = function() {
 	
-	//psiTurk.recordTrialData({'phase':'postquestionnaire', 'status':'submit'});
+	psiTurk.recordTrialData({'phase':'postquestionnaire', 'status':'submit'});
 
 	var selectedVal = "";
         var selected = $("input[type='radio']:checked");

@@ -1,13 +1,13 @@
 <div id="container-instructions">
 
-    <h1>Instructions</h1>
+    <h1>New Categories</h1>
 
     <hr>
 
     <div class="instructions well">
 
         <p>
-	  In this task you will be presented with stimuli that belong to one of two categories, A or B. In the practice trial you will be presented with stimuli from each category. Your task is to choose which category the stimulus belongs to, A or B.
+	  Now you will be presented with stimuli that belong to one of two different categories, C or D. In the practice trial you will be presented with stimuli from each category. Your task is to choose which category the stimulus belongs to, C or D.
         </p>
 
         <script type="text/javascript">
@@ -31,7 +31,7 @@
             <div class="col-xs-8">
             	<center>
 	                <button type="button" id="next" value="next" class="btn btn-success btn-lg continue">
-	                Begin experiment <span class="glyphicon glyphicon-arrow-right"></span>
+	                Begin training <span class="glyphicon glyphicon-arrow-right"></span>
 	                </button>
 	            </center>
             </div>

@@ -1,33 +1,33 @@
 [HIT Configuration]
-title = Stroop task
-description = Judge the color of a series of words.
-amt_keywords = Perception, Psychology
-lifetime = 24
+title = Categorization Switching Task and Autism Quotient (AQ)
+description = Testing Categorization learning as a function of Autism
+amt_keywords = Categorization, Psychology
+lifetime = 120
 us_only = true
-approve_requirement = 95
-contact_email_on_error = youremail@gmail.com
-ad_group = Default psiTurk Stroop Example
-psiturk_keywords = stroop
-organization_name = New Great University
+approve_requirement = 85
+contact_email_on_error = tl4@williams.edu
+ad_group = Categorization Switching
+psiturk_keywords = categorization, aq, autism
+organization_name = Williams College PSYC 322
 browser_exclude_rule = MSIE, mobile, tablet
 
 [Database Parameters]
-database_url = sqlite:///participants.db
-table_name = turkdemo
+database_url = sqlite:///participantsLive.db
+table_name = trialdata
 
 [Server Parameters]
-host = localhost
-port = 22362
+host = 127.8.136.129
+port = 8080
 cutoff_time = 30
 logfile = server.log
 loglevel = 2
 debug = true
-login_username = examplename
-login_pw = examplepassword
+login_username = tl4@williams.edu
+login_pw = golf052694
 threads = auto
 
 [Task Parameters]
-experiment_code_version = 1.0
+experiment_code_version = 2.0
 num_conds = 1
 num_counters = 1
 

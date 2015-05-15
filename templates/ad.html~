@@ -60,7 +60,7 @@
 				<div class="row">
 					<div class="col-xs-2">
 						<!-- REPLACE THE LOGO HERE WITH YOUR  UNIVERSITY, LAB, or COMPANY -->
-					<!--	<img id="adlogo" src="{{ server_location }}/static/images/university.png" alt="Lab Logo" /> -->
+						<img id="adlogo" src="{{ server_location }}/static/images/university.png" alt="Lab Logo" />
 					</div>
 					<div class="col-xs-10">
 
@@ -76,10 +76,10 @@
 
 							    <h1>Call for participants</h1>
 							    <p>
-									The Categories Lab at Williams College  is looking for online participants 
+									The XXX Lab at XXXXX University is looking for online participants 
 									for a brief psychology experiment. The only requirements 
 									are that you are at least 18 years old and are a fluent English 
-									speaker.  The task will take 60 minutes and will pay some amount of money.
+									speaker.  The task will take XXXXX minutes and will pay XXXXX.
 							    </p>
 							    <div class="alert alert-danger">
 									<strong>This task can only be completed once.</strong> 
